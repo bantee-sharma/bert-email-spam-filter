@@ -7,7 +7,7 @@
 
 Fine-tuned BERT model for spam detection.
 
-Preprocessing of text data (tokenization, cleaning, etc.)
+Preprocessing of text data (tokenization, cleaning, etc.).
 
 Training and evaluation on a spam dataset.
 
