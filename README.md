@@ -4,6 +4,7 @@
 🚀 This project implements a spam classifier using BERT (Bidirectional Encoder Representations from Transformers) to detect spam messages in emails, SMS, or other text-based communications.
 
 **🔹 Features:**
+
 Fine-tuned BERT model for spam detection
 Preprocessing of text data (tokenization, cleaning, etc.)
 Training and evaluation on a spam dataset
