@@ -5,7 +5,7 @@
 
 **🔹 Features:**
 
-Fine-tuned BERT model for spam detection
+Fine-tuned BERT model for spam detection.
 
 Preprocessing of text data (tokenization, cleaning, etc.)
 
