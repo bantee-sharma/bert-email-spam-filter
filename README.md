@@ -9,7 +9,8 @@ Fine-tuned BERT model for spam detection
 
 Preprocessing of text data (tokenization, cleaning, etc.)
 
-Training and evaluation on a spam dataset
+Training and evaluation on a spam dataset.
+
 Performance metrics like accuracy, precision, recall, and F1-score
 Deployment-ready for real-world applications
 📌 Technologies Used: Python, TensorFlow/PyTorch, Hugging Face Transformers, NLP
