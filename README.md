@@ -19,7 +19,8 @@ Deployment-ready for real-world applications
 
 Python
 
-TensorFlow/PyTorch, Hugging Face Transformers, NLP
+TensorFlow/PyTorch
+Hugging Face Transformers, NLP
 
 📊 Model Performance:
 Training Accuracy: 99.47%
