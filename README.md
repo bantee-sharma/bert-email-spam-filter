@@ -15,7 +15,7 @@ Performance metrics like accuracy, precision, recall, and F1-score
 
 Deployment-ready for real-world applications
 
-📌 Technologies Used:
+**📌 Technologies Used:**
 
 Python, TensorFlow/PyTorch, Hugging Face Transformers, NLP
 
